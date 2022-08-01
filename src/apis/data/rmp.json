@@ -1,0 +1,40 @@
+{
+    "RMP": [
+        {
+          "Name": "Mahesh Gupta",
+          "User_Id": "234556",
+          "Area": "Raipur"
+        },
+        {
+          "Name": "Aadarsh Gupta",
+          "User_Id": "234557",
+          "Area": "Bhilai"
+        },
+        {
+          "Name": "Aavesh Gupta",
+          "User_Id": "234556",
+          "Area": "Jamshedpur"
+        },
+        {
+          "Name": "Rajesh Aggrawal",
+          "User_Id": "238811",
+          "Area": "Ranchi"
+        },
+        {
+          "Name": "Rajesh Sethi",
+          "User_Id": "238822",
+          "Area": "Aurangabad"
+        },
+        {
+          "Name": "Raju Goyal",
+          "User_Id": "237311",
+          "Area": "Tatanagar"
+        },
+        {
+          "Name": "Mohit Sharma",
+          "User_Id": "245311",
+          "Area": "Bilaspur"
+        }
+     
+      ]
+    }

@@ -1,0 +1,131 @@
+{
+    "Patient":[
+    {
+      "Aadhar_Id": "1234 2345 4657 3784",
+      "Name": "Harish Sharma",
+      "Age": "34",
+      "Blood Group": "B+",
+      "Medical History":[
+        {
+          "Diabetes": "2018",
+          "Hypertension": "2019"
+        }]
+       
+    },
+    {
+      "Aadhar_Id": "1235 2387 4662 3791",
+      "Name": "Rajesh Gupta",
+      "Age": "42",
+      "Blood Group": "A+",
+      "Medical History":[
+        {
+          "Diabetes": "2020"
+          
+        }]
+       
+    },
+    {
+      "Aadhar_Id": "1356 2397 4872 3561",
+      "Name": "Geeta Verma",
+      "Age": "41",
+      "Blood Group": "A+",
+      "Medical History":[
+        {
+          "Diabetes": "2020",
+          "Hypertension": "2018"
+          
+        }]
+       
+    },
+    {
+      "Aadhar_Id": "8356 2397 4892 4561",
+      "Name": "Manisha Goyal",
+      "Age": "60",
+      "Blood Group": "A-",
+      "Medical History":[
+        {
+          "Hypertension": "2021"
+          
+        }]
+       
+    },
+    {
+      "Aadhar_Id": "8356 2397 4892 4561",
+      "Name": "John Cruise",
+      "Age": "53",
+      "Blood Group": "AB+",
+      "Medical History":[
+        {
+          "Arthritis": "2019",
+          "Hypertension": "2021"
+          
+        }]
+       
+    },
+    {
+      "Aadhar_Id": "8357 2397 4872 4261",
+      "Name": "Ashok Verma",
+      "Age": "50",
+      "Blood Group": "AB-",
+      "Medical History":[
+        {
+          "Arthritis": "2019",
+          "Diabetes": "2021"
+          
+        }]
+       
+    },
+    {
+      "Aadhar_Id": "8343 2827 4872 4261",
+      "Name": "Geetika Goyal",
+      "Age": "29",
+      "Blood Group": "B-",
+      "Medical History":[
+        {
+          "None":"0"
+          
+        }]
+       
+    },
+    {
+      "Aadhar_Id": "8357 2397 4872 4261",
+      "Name": "Radhika Nair",
+      "Age": "32",
+      "Blood Group": "A-",
+      "Medical History":[
+        {
+          "Hypertension":"2022"
+          
+        }]
+       
+    },
+    {
+      "Aadhar_Id": "7357 2397 4872 5261",
+      "Name": "Divya Dhanan",
+      "Age": "37",
+      "Blood Group": "AB-",
+      "Medical History":[
+        {
+          "Back Pain":"2021"
+          
+        }]
+       
+    },
+    {
+      "Aadhar_Id": "8357 2397 4872 4261",
+      "Name": "Malini Gupta",
+      "Age": "55",
+      "Blood Group": "AB-",
+      "Medical History":[
+        {
+          "Arthritis": "2019",
+          "Diabetes": "2018"
+          
+        }]
+       
+    }
+    
+    
+    
+  ]
+}

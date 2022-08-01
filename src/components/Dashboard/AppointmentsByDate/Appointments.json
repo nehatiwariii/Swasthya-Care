@@ -1,0 +1,14 @@
+{
+    "appointment": [
+      {
+        "date": "25-06-2022",
+        "name": "John Snow",
+        "meet": "https://meet.google.com/ueu-qvvf-xhu"
+      },
+      {
+        "date": "25-06-2022",
+        "name": "Tim Cook",
+        "meet": "https://meet.google.com/ueu-qvvf-xhu"
+      }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "doctor":[
+    {
+        "name": "Dr.Vimal Roy",
+        "specialization": "General Surgery",
+        "username":"vimal@roy",
+        "Phone_No": "9426012589",
+        "Meet_Link": "https:meet.google.com/fah-jdg-dgd"
+    },
+
+    {
+        "name": "Dr.Chandra Basu",
+        "specialization": "Orthopedics",
+        "username":"chandra@basu",
+        "Phone_No": "",
+        "Meet_Link": "https:meet.google.com/jsj-jjd-dkd"
+    },
+
+    {
+        "name": "Dr.Nita trivedi",
+        "specialization": "Gynecologist",
+        "username":"nita@trivedi",
+        "Phone_No": "9462581266",
+        "Meet_Link": "https:meet.google.com/jdi-oen-mso"
+    },
+
+    {
+        "name": "Dr.Vijay Bhosle",
+        "specialization": "Cardiology",
+        "username":"vijay@bhosle",
+        "Phone_No": "9854687269",
+        "Meet_Link": "https:meet.google.com/jdo-dbr-uns"
+    },
+
+    {
+        "name": "Dr. Aamir Hussain",
+        "specialization": "Pediatrics",
+        "username":"aamir@hussain",
+        "Phone_No": "7199259646",
+        "Meet_Link": "https:meet.google.com/kfb-odh-ifs"
+    },
+
+    {
+        "name": "Dr.Vina Joshi",
+        "specialization": "Neurology",
+        "username":"vina@joshi",
+        "Phone_No": "7462469836",
+        "Meet_Link": "https:meet.google.com/idr-oid-oct"
+    },
+
+    {
+        "name": "Dr. Vikas Thakur",
+        "specialization": "Neurology",
+        "username":"vikas@thakur",
+        "Phone_No": "7485123694",
+        "Meet_Link": "https:meet.google.com/imt-kdt-osm"
+    }
+
+]
+}
